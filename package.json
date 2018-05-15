@@ -6,7 +6,6 @@
     "test": "jest",
     "test:cov": "jest --coverage",
     "test:e2e": "jest --config ./test/jest-e2e.json",
-    "postinstall":"npm run build",
     "start": "npm run start:prod",
     "start:prod": "ts-node ./src/main.ts"
   },
