@@ -1,0 +1,24 @@
+{
+  "mongo_url_local": "mongodb://localhost:27017/grammy",
+  "mongo_url": "mongodb://KlymS:qwertyuiop@ds016148.mlab.com:16148/grammy",
+  "site_url": "http://grammy.com.ua",
+  "jwt_secret": "fsdkjtfryv1423jkjng1iofhg3",
+  "superAdminCredentials": {
+    "email": "admin@test.com ",
+    "password": "test"
+  },
+  "gmailConfig": {
+    "host": "smtp.gmail.com",
+    "port": "465",
+    "secure": true,
+    "auth": {
+      "user": "klym.serhiy@gmail.com",
+      "pass": "ljvyby8920"
+    }
+  },
+  "itemsOnPage": 10,
+  "admin": {
+    "username": "test",
+    "password": "test123"
+  }
+}

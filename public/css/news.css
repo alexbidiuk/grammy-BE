@@ -1,0 +1,14 @@
+.save-news {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.btn-save-news {
+    background: linear-gradient(60deg, #fbfa51, #fcfb03);
+    color: #121212 !important;
+}
+
+.no-display {
+    display: none;
+}
